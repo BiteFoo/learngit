@@ -10,5 +10,7 @@ int main(int argc,const char* argv[])
 	printf("a=%d\n",a);
 	int devA =1;
 	printf("devA add code here 2018-03-01\n ");
+	//int bb=10;
+	//printf("devB add code here 2018-03-01\n");
 	return  0;
 }

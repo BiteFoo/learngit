@@ -5,5 +5,8 @@ int main(int argc,const char* argv[])
 {
 	
 	printf("learn study git to controll!!! modifyed by Loopher");
-	return  0
+
+	int a=10;
+	printf("a=%d\n",a);
+	return  0;
 }

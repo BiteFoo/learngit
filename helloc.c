@@ -8,5 +8,7 @@ int main(int argc,const char* argv[])
 
 	int a=10;
 	printf("a=%d\n",a);
+	int devA =1;
+	printf("devA add code here 2018-03-01\n ");
 	return  0;
 }
